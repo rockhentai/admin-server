@@ -1,0 +1,1 @@
+{"name": "oauth","unitPath": "/Users/lilithgames/Desktop/lsy-webs/only-chat/admin-server/app/module/oauth","clazzList": [{"name": "OauthController","filePath": "controller/index.ts"},{"name": "LarkAPI","filePath": "service/LarkAPI.ts"}],"multiInstanceClazzList": [],"protos": []}
